@@ -4,7 +4,7 @@ A highly performant, production-ready, configuration-driven React Native homepag
 
 ## 🏗️ Architecture Overview
 
-![Architecture Diagram](https://raw.githubusercontent.com/Jbansal2/kiddo-ass/main/docs/architecture.png)
+![Architecture Diagram](./docs/architecture.png)
 
 ### Rendering Pipeline
 ```
